@@ -1,0 +1,9 @@
+[submodule "livrableA"]
+	path = livrableA
+	url = https://github.com/zachariya1/IW5_WebSocket_BARKA_ADDOU_livrableA.git
+[submodule "livrableB"]
+	path = livrableB
+	url = https://github.com/zachariya1/IW5_WebSocket_BARKA_ADDOU_livrableB.git
+[submodule "livrableC"]
+	path = livrableC
+	url = https://github.com/zachariya1/IW5_WebSocket_BARKA_ADDOU_livrableC.git
